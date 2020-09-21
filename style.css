@@ -1,0 +1,40 @@
+body {
+  color: red;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.menu > li {
+  display: inline;
+  margin-right: 50px;
+}
+
+carousel {
+  margin-left: 500px;
+}
+
+h2 {
+  font-size: 54px;
+  color: blue;
+  text-shadow: 1px 1px #333;
+  text-align: center;
+}
+
+article {
+  margin-left: 1cm;
+  margin-top: 5cm;
+}
+
+img1 {
+  margin-left: 5cm;
+}
+
+img2 {
+  margin-top: 5cm;
+}
+
+img3 {
+  margin-left: 15cm;
+}
